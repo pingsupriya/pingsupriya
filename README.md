@@ -1,21 +1,63 @@
-👋 Hi, I’m @Supriya Wakchaure
- 
- 
-👀I’m interested in Software Technology 
- 
- 
-🌱 I’m currently learning : Python, C++, Java😎
+# 👋 Hey there! I'm Supriya Wakchaure
 
+🎓 B.Tech CSE @ VIT Chennai | 💻 Software Developer Intern @ Gap Inc. | 🛡️ Security & AI Enthusiast
 
+---
 
-📫 How to reach me: Instagram:https://www.instagram.com/infinite_soul1272/
+### 🌟 About Me
 
+✨ A passionate developer who believes in **coding with purpose and impact**.  
+🔐 Obsessed with cybersecurity, AI/ML, and building meaningful tech products.  
+🌍 Currently exploring cloud security, container vulnerabilities, and full-stack development.
 
-<a href="https://app.daily.dev/pingsupriya"><img src="https://api.daily.dev/devcards/679bd50aefa34bbdbd8cce67d4278249.png?r=pqb" width="400" alt="Supriya Wakchaure's Dev Card"/></a>
+---
+
+### 💻 What I'm Working On
+
+- 🚀 Building **real-time dashboards** for 300K+ assets at Gap Inc. using React, Prisma, and security APIs  
+- 🤖 Creating smarter **emotion recognition models** with YOLOv7 & CNNs  
+- 🔐 Enhancing **network security** with cryptographic systems and intrusion detection tools  
+- 📈 Forecasting **stock trends** with Linear Regression & Prophet (MAPE: ~2.28%)
+
+---
+
+### 🛠️ Tech Stack
+
+`Languages:` C, C++, Java, Python  
+`Frameworks:` React.js, Scikit-learn, TensorFlow, Keras  
+`Tools:` GitHub, Azure, Prisma Cloud, MySQL, MongoDB, OpenCV, Postman  
+`Fun Stuff:` YOLO, Game Dev, Tailwind CSS, Secure Chat Apps  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Published 2 IEEE Research Papers on Intrusion Detection & Computer Vision  
+- 🏅 NPTEL Ethical Hacking – Elite + Silver (Top 5%)  
+- 🧠 Built AffectX – Real-time Emotion Recognition Model (92% accuracy)  
+- 🏊‍♀️ Led handball & swimming teams to regional-level victories  
+- 🎮 Designed games as part of VIT's Game Development Club
+
+---
+
+### 📬 Let's Connect!
+
+📸 Instagram: [@infinite_soul1272](https://www.instagram.com/infinite_soul1272/)  
+🔗 LinkedIn: [supriya-wakchaure](https://www.linkedin.com/in/supriya-wakchaure-94091721a/)  
+💻 GitHub: [@pingsupriya](https://github.com/pingsupriya)  
+📧 Email: supriyawakchaure2003@gmail.com  
+
+---
+
+<a href="https://app.daily.dev/pingsupriya">
+  <img src="https://api.daily.dev/devcards/679bd50aefa34bbdbd8cce67d4278249.png?r=pqb" width="400" alt="Supriya Wakchaure's Dev Card"/>
+</a>
+
 <!--
-**pingsupriya/pingsupriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by! 😄
+This README is proudly made with ❤️ by Supriya.
+-->
 
-Here are some ideas to get you started:
 
 
 
