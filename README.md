@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Supriya Wakchaure
 
-🎓 B.Tech CSE @ VIT Chennai | 💻 Software Developer Intern @ Gap Inc. | 🛡️ Security & AI Enthusiast
+🎓 B.Tech Graduate from VIT Chennai | 💻 Ex-Software Developer Intern @ Gap Inc. and HAL | FULL-STACK DEVELOPER | 🛡️ Security & AI Enthusiast
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 💻 What I'm Working On
+### 💻 What I Worked On
 
 - 🚀 Building **real-time dashboards** for 300K+ assets at Gap Inc. using React, Prisma, and security APIs  
 - 🤖 Creating smarter **emotion recognition models** with YOLOv7 & CNNs  
@@ -23,10 +23,10 @@
 
 ### 🛠️ Tech Stack
 
-`Languages:` C, C++, Java, Python  
+`Languages:` Java, Python  
 `Frameworks:` React.js, Scikit-learn, TensorFlow, Keras  
 `Tools:` GitHub, Azure, Prisma Cloud, MySQL, MongoDB, OpenCV, Postman  
-`Fun Stuff:` YOLO, Game Dev, Tailwind CSS, Secure Chat Apps  
+`Fun Stuff:` YOLO, Tailwind CSS, Secure Chat Apps  
 
 ---
 
@@ -36,7 +36,7 @@
 - 🏅 NPTEL Ethical Hacking – Elite + Silver (Top 5%)  
 - 🧠 Built AffectX – Real-time Emotion Recognition Model (92% accuracy)  
 - 🏊‍♀️ Led handball & swimming teams to regional-level victories  
-- 🎮 Designed games as part of VIT's Game Development Club
+
 
 ---
 
